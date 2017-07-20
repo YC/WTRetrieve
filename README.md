@@ -1,14 +1,14 @@
-#Webpage Title Retriever
+# Webpage Title Retriever
 A small tool for retrieving the title of webpages.
 
-##Dependencies
+## Dependencies
 Python  
 **Libraries**: lxml, requests
 
-##Usage
-    WTRetrieve.py [-h] [-f file] [--nolinks] [--nonewlines] [<URL>]
+## Usage
+    WTRetrieve.py [-h] [-f file] [--nolinks] [--nonewlines] [URL...]
 
-###Examples
+### Examples
 
 Retrieve the title for Github
 
